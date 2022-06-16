@@ -5,7 +5,9 @@
     <a href="https://www.frontendmentor.io/profile/comendrun" target="_blank"><img src="https://img.shields.io/badge/Frontend%20Mentor-comendrun-green" alt="Frontend Mentor" /></a>
 </div>
 
-# I can't even believe that I have come this far and I'm grateful for everything.
+# Kamran Rouhani (comendrun) - Frontend Web Developer - ReactJS
+
+## I can't even believe that I have come this far and I'm grateful for everything.
 
 ## ## How Did I Start Learning about Web Development?
 

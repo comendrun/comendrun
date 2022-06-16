@@ -1,4 +1,4 @@
-![Learning Frontend Web Developer with passion and eagerness to learn something new everyday](./images/IMG_20210407_201928_984%20-%202.jpg)
+[Learning Frontend Web Developer with passion and eagerness to learn something new everyday](./images/IMG_20210407_201928_984%20-%202.jpg)
 
 <div align="left">
     <a href="https://twitter.com/comendrun" target="_blank"><img src="https://img.shields.io/twitter/follow/comendrun?style=for-the-badge" alt="Twitter" /></a>
@@ -32,4 +32,6 @@ Im Kamran and i am a couple of months old in this new beautiful digital world. I
 - Facebook - [Kamran](https://www.facebook.com/profile.php?id=100075303231964)
 - You can [contact me through email](mailto:kamran.rouhani.dev@gmail.com)
 
-# Thanks For Visiting my Github Profile. I Really your time and attention. have a great day/night ahead 👋 <img alt="comendrun" src="./images/comendrun-small.jpg" />
+# Thanks For Visiting my Github Profile. I Really your time and attention. have a great day/night ahead 👋
+
+<img alt="comendrun" src="./images/comendrun-small.jpg" style={margin:auto} />

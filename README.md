@@ -1,26 +1,26 @@
-[Learning Frontend Web Developer with passion and eagerness to learn something new everyday](./images/IMG_20210407_201928_984%20-%202.jpg)
+![Learning Frontend Web Developer with passion and eagerness to learn something new every day](./images/Capture.PNG)
 
 <div align="left">
     <a href="https://twitter.com/comendrun" target="_blank"><img src="https://img.shields.io/twitter/follow/comendrun?style=for-the-badge" alt="Twitter" /></a>
     <a href="https://www.frontendmentor.io/profile/comendrun" target="_blank"><img src="https://img.shields.io/badge/Frontend%20Mentor-comendrun-green" alt="Frontend Mentor" /></a>
 </div>
 
-# I cant even believe that i have this far and im grateful for everything.
+# I can't even believe that I have come this far and I'm grateful for everything.
 
 ## ## How Did I Start Learning about Web Development?
 
-I always wanted to work with computers. throughout my childhood, learning Photoshop, Corel Draw, wrking as a typist, translator, and ... and also trying to make apps and themes for symbian OS based Nokisa Mobile phones, i always wanted to make things happen in digital world. I was far from my computers for a couple of years when i went to university and then i realized, why i didnt even tried to pursue what i always wanted to do?
-so i decided to start with web dvelopment and couple of months, i realized that its the only thing that i want to do. i cant feel the time passing when im back of my computer and am in flow state coding. thats something i never experienced before. i even wanted my days to be more than 24 hours so maybe i could code a little more. but anyways, i have experienced this feeling i dont think anything could take this feeling and this joy away from me.
+I always wanted to work with computers. throughout my childhood, learning Photoshop, Corel Draw, working as a typist, translator, and ... and also trying to make apps and themes for Symbian OS-based Nokia Mobile phones, I always wanted to make things happen in the digital world. I was far from my computers for a couple of years when I went to university and then I realized, why I didn't even try to pursue what I always wanted to do?
+so I decided to start with web development and after a couple of months, I realized that it was the only thing that I want to do. I cant feel the time passing when I'm back on my computer and am in flow state coding. That's something I never experienced before. I even wanted my days to be more than 24 hours so maybe I could code a little more. but anyways, I have experienced this feeling I don't think anything could take this feeling and this joy away from me.
 
 ## A little bit about myself
 
-Im Kamran and i am a couple of months old in this new beautiful digital world. I've studied Dental Technology in university and also had couple of years of experience that field. but after all, it wasnt something i wanted from bottom of my heart. so i decided to go for this and i hope i can land my first tech job with hard work and my best attitude.
+I'm Kamran and I am a couple of months old in this new beautiful digital world. I've studied Dental Technology at university and also had a couple of years of experience in that field. but after all, it wasn't something I wanted from bottom of my heart. so I decided to go for this and I hope I can land my first tech job with hard work and my best attitude.
 
-## What am i doing right now:
+## What am I doing right now:
 
-- Im working on frontend Mentor challenges
-- im finishing "The Frontend Developer Career Path" course by great and wonderful Scrimba. I can not emphasis how much im grateful to this wonderful community and this website.
-- Im trying to build a portfolio website and also a resume and start applying for my first ever tech job.
+- I'm working on frontend Mentor challenges
+- I'm finishing "The Frontend Developer Career Path" course by great Scrimba. I can not emphasize how much I'm grateful to this wonderful community and this website.
+- I'm trying to build a portfolio website and also a resume and start applying for my first ever tech job.
 - I'm looking for help with getting a job.
 
 ## How to reach out to me:
@@ -34,4 +34,6 @@ Im Kamran and i am a couple of months old in this new beautiful digital world. I
 
 # Thanks For Visiting my Github Profile. I Really your time and attention. have a great day/night ahead 👋
 
-<img alt="comendrun" src="./images/comendrun-small.jpg" style={margin:auto} />
+<div align="center"> 
+    <img alt="comendrun" src="./images/comendrun-small.jpg" />
+</div>

@@ -7,8 +7,6 @@
 
 # Kamran Rouhani (comendrun) - Frontend Web Developer - ReactJS
 
-## I can't even believe that I have come this far and I'm grateful for everything.
-
 ## ## How Did I Start Learning about Web Development?
 
 I always wanted to work with computers. throughout my childhood, learning Photoshop, Corel Draw, working as a typist, translator, and etc. and also trying to make apps and themes for Symbian OS-based Nokia Mobile phones, I always wanted to make things happen in the digital world. I was far from computers for a couple of years since I went to university and then I realized, why I didn't even try to pursue what I always wanted to do?

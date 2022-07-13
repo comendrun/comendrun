@@ -19,9 +19,7 @@ I'm Kamran and I am a couple of months old in this new beautiful digital world. 
 ## What am I doing right now:
 
 - I'm working on frontend Mentor challenges
-- I'm focusing on finishing "The Frontend Developer Career Path" course by great Scrimba. I can not emphasize how much I'm grateful to this wonderful community and this website.
-- I'm trying to build a portfolio website and also a resume and start applying for my first ever tech job.
-- I'm looking for help with getting a job.
+- I'm focusing on finishing "The Frontend Developer Career Path" course by the great Scrimba. I can not emphasize how much I'm grateful to this wonderful community and this website.
 
 ## How to reach out to me:
 

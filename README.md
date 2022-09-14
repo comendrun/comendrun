@@ -18,8 +18,7 @@ I'm Kamran and I am a couple of months old in this new beautiful digital world. 
 
 ## What am I doing right now:
 
-- I'm working on frontend Mentor challenges
-- I'm focusing on finishing "The Frontend Developer Career Path" course by the great Scrimba. I can not emphasize how much I'm grateful to this wonderful community and this website.
+- I've just started learning Java Programming language, to be able to use SpringBoot as a backend for a project at work. Let's go!
 
 ## How to reach out to me:
 

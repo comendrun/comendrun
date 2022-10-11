@@ -13,7 +13,7 @@
 
 - 👨‍💻 Most recent of my projects are available at [https://comendrun.com/](https://comendrun.com/)
 
-- 💬 Ask me about **React, JavaScript, CSS, TailwindCSS**
+- 💬 We can have a discussion about **React, JavaScript, CSS, TailwindCSS or anything tech related**
 
 - 📫 You can reach me from here: **info@comendrun.com**
 

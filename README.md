@@ -11,7 +11,7 @@
 
 - 🤝 looking for help with **Java/Spring Boot**
 
-- 👨‍💻 Most recent of my projects are available at [https://comendrun.com/](https://comendrun.com/)
+- 👨‍💻 Most recent of my projects are available on my portfolio website at [https://comendrun.com/](https://comendrun.com/)
 
 - 💬 We can have a discussion about **React, JavaScript, CSS, TailwindCSS or anything tech related**
 

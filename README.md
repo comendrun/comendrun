@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact about me: **I used to be a Dental Technician!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect:</h3>
 <p align="left">
 <a href="https://codepen.io/comendrun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="comendrun" height="30" width="40" /></a>
 <a href="https://dev.to/comendrun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="comendrun" height="30" width="40" /></a>

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/comendrun" target="blank"><img src="https://img.shields.io/twitter/follow/comendrun?logo=twitter&style=for-the-badge" alt="comendrun" /></a> </p>
 
-- 🔭 I’m currently working at **RMS Intelligents GmbH**
+- 🔭 I’m currently work at **RMS Intelligents GmbH**
 
 - 🌱 currently learning **TypeScript to use with React + Java (SpringBoot Framework)**
 

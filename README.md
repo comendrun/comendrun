@@ -13,7 +13,7 @@
 
 - 👨‍💻 Most recent of my projects are available on my portfolio website at [https://comendrun.com/](https://comendrun.com/)
 
-- 💬 We can have a discussion about **React, JavaScript, TypeScript, CSS, TailwindCSS or anything tech related**
+- 💬 We can have a discussion about **NextJS, ReactJS, JavaScript, TypeScript, CSS, TailwindCSS or anything tech related**
 
 - 📫 You can reach me from here: **info@comendrun.com**
 
@@ -21,12 +21,12 @@
 
 <h3 align="left">Let's connect:</h3>
 <p align="left">
-<a href="https://codepen.io/comendrun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="comendrun" height="30" width="40" /></a>
-<a href="https://dev.to/comendrun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="comendrun" height="30" width="40" /></a>
-<a href="https://twitter.com/comendrun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="comendrun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/comendrun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="comendrun" height="30" width="40" /></a>
-<a href="https://fb.com/comendrun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="comendrun" height="30" width="40" /></a>
-<a href="https://instagram.com/comendrun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="comendrun" height="30" width="40" /></a>
+<a href="https://codepen.io/comendrun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="comendrun" height="30" width="40" /></a>
+<a href="https://dev.to/comendrun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="comendrun" height="30" width="40" /></a>
+<a href="https://twitter.com/comendrun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="comendrun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/comendrun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="comendrun" height="30" width="40" /></a>
+<a href="https://fb.com/comendrun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="comendrun" height="30" width="40" /></a>
+<a href="https://instagram.com/comendrun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="comendrun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

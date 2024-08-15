@@ -7,9 +7,9 @@
 
 - 🔭 I work at **RMS Intelligents GmbH**
 
-- 🌱 currently learning **TypeScript to use with React + Java (SpringBoot Framework)**
+- 🌱 **Learning is my Full-time job.**
 
-- 🤝 looking for help with **Java/Spring Boot**
+<!-- - 🤝 looking for help with **Java/Spring Boot** -->
 
 - 👨‍💻 Most recent of my projects are available on my portfolio website at [https://comendrun.com/](https://comendrun.com/)
 

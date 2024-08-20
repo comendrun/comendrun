@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kamran Rouhani</h1>
-<h3 align="center">A self-taught Software Developer - based in Germany</h3>
+<h1 align="center">Kamran Rouhani</h1>
+<h3 align="center">Software Developer</h3>
+<h4 align="center">Deutschland (Germany)</h4>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=comendrun&label=Profile%20views&color=0e75b6&style=flat" alt="comendrun" /> </p>
 

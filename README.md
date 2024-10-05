@@ -9,7 +9,7 @@
 
 - 🔭 I work at **RMS Intelligents GmbH**
 
-- 🌱 **Learning is my Full-time job.**
+- 🌱 **Learning is my favorite hobby.**
 
 <!-- - 🤝 looking for help with **Java/Spring Boot** -->
 

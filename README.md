@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/comendrun" target="blank"><img src="https://img.shields.io/twitter/follow/comendrun?logo=twitter&style=for-the-badge" alt="comendrun" /></a> </p>
 
-- 🔭 I work at **RMS Intelligents GmbH**
+- 🔭 I work at **RMS Intelligents GmbH** as a Full-stack software Developer 
 
 - 🌱 **Learning is my favorite hobby.**
 

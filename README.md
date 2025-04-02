@@ -1,26 +1,32 @@
-# Kamran Rouhani  
-### Software Developer | Full-Stack Developer  
-
-Located in **Germany**, I specialize in designing and building scalable web applications with **Java, Spring Boot, Next.js, and React**. I have a strong foundation in backend architecture, frontend development, and cloud deployment.  
-
-Currently, I work at **RMS Intelligents GmbH** as a Full-Stack Software Developer, where I focus on building robust software solutions for enterprise applications.  
-
-## **Technical Expertise**  
-- **Frontend**: Next.js, React.js, TypeScript, JavaScript, Tailwind CSS  
-- **Backend**: Java, Spring Boot, Node.js, Express.js  
-- **Database**: PostgreSQL, MySQL, Supabase  
-- **DevOps & Cloud**: Docker, Kubernetes, AWS, CI/CD Pipelines  
-- **Other**: RESTful APIs, GraphQL, WebSockets, Microservices, SOAP Services  
-
-## **Projects & Contributions**  
-Here are some of my recent projects:  
-
-- 🚀 **[Portfolio Website](https://comendrun.com/)** – A personal website showcasing my projects and experience.  
-
-## **How to Reach Me**  
-📧 Email: [info@comendrun.com](mailto:info@comendrun.com)  
-🔗 LinkedIn: [linkedin.com/in/comendrun](https://linkedin.com/in/comendrun)  
-🌐 Portfolio: [comendrun.com](https://comendrun.com/)  
+# Kamran Rouhani
+### Full-Stack Software Developer | Java, Spring Boot, Next.js, React
+📍 Germany
 
 ---
-*Always open to discussing new opportunities, collaborations, or technical challenges in software development.*
+
+Building robust and scalable web applications, currently contributing at **RMS Intelligents GmbH**. Focused on backend development with Java/Spring and modern frontend stacks.
+
+---
+
+## Areas of Expertise
+
+* **Backend Development:**
+    * **Languages/Frameworks:** Java (Core, EE), Spring Boot (Core, MVC, Security, Data JPA), Node.js, Express.js
+    * **Architecture & APIs:** Microservices, RESTful APIs, GraphQL, SOAP Service Integration, API Design & Security
+* **Frontend Development:**
+    * **Languages/Frameworks:** Next.js, React.js, TypeScript, JavaScript (ES6+)
+    * **UI/UX:** Tailwind CSS, Responsive Design, State Management (Context API, Redux/Zustand), Component Libraries, ShadCN
+* **Databases & Data Management:**
+    * PostgreSQL, MySQL, Supabase
+    * Data Modeling, ORM (JPA/Hibernate), Query Optimization
+* **Cloud & DevOps:**
+    * **Platforms:** AWS (AWS Certified Cloud Practitioner)
+    * **Containerization & Orchestration:** Docker
+    * **CI/CD:** GitHub Actions
+* **Methodologies & Practices:** Agile/Scrum, Test-Driven Development (TDD), BDD, Clean Code, SOLID Principles
+
+---
+
+**Connect & Find Out More:**
+
+🔗 [LinkedIn](https://linkedin.com/in/comendrun) | 🌐 [Portfolio](https://comendrun.com/) | 📧 [Email](mailto:info@comendrun.com)

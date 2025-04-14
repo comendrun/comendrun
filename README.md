@@ -4,7 +4,7 @@
 
 ---
 
-Building robust and scalable web applications, currently contributing at **RMS Intelligents GmbH**. Focused on backend development with Java/Spring and modern frontend stacks.
+Building web-based apps and websites. 
 
 ---
 
